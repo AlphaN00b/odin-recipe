@@ -1,0 +1,22 @@
+* {
+    background-color: #c5af97;
+}
+
+h1, .link {
+    text-align: center;
+}
+h1 {
+    font-family: cursive;
+    color:#649775;
+    font-weight: 1000;
+}
+.link {
+    font-family: fantasy;
+    font-size: 32px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
