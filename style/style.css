@@ -2,16 +2,25 @@
     background-color: #c5af97;
 }
 
-h1, .link {
+h1, h2, .link {
     text-align: center;
 }
+h1, h2 {
+    font-family: cursive, sans-serif;
+}
 h1 {
-    font-family: cursive;
     color:#649775;
     font-weight: 1000;
 }
+h2 {
+    color: #136363;
+}
+p, li {
+    font-family: sans-serif;
+    font-size: 18px;
+}
 .link {
-    font-family: fantasy;
+    font-family: comic-sans, sans-serif;
     font-size: 32px;
 }
 .center {
@@ -22,4 +31,8 @@ h1 {
 }
 .center.jake {
     border-radius: 2%;
+}
+.center.smore {
+    border-radius: 2%;
+    width: 35%;
 }
