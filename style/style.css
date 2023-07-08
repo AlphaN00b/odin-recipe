@@ -9,18 +9,35 @@ h1, h2 {
     font-family: cursive, sans-serif;
 }
 h1 {
-    color:#649775;
+    color: #4C7585;
     font-weight: 1000;
     font-size: 48px;
 }
 h2 {
-    color: #136363;
+    color: #446A78;
     font-size: 32px;
 }
 p, li {
     font-family: sans-serif;
     font-size: 24px;
     font-weight: 500;
+}
+ul, ol, li, p {
+    background-color: #FFEFDE;
+}
+ul, ol, p {
+    border-radius: 10%;
+    width: 800px;
+    padding: 100px ;
+    margin: auto;
+    color: #403C37;
+}
+li, .link {
+    margin-top: 10px;
+}
+.text {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .link {
     font-family: comic-sans, sans-serif;
