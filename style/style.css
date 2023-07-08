@@ -9,7 +9,7 @@ h1, h2 {
     font-family: cursive, sans-serif;
 }
 h1 {
-    color: #4C7585;
+    color: #446A78;
     font-weight: 1000;
     font-size: 48px;
 }
@@ -46,7 +46,7 @@ li, .link {
     font-family: italic, sans-serif;
     font-size: 32px;
     color: #c5af97;
-    background-color: #403C37;
+    background-color: #786550;
     text-decoration: none;
 }
 .link.homepage {
