@@ -25,10 +25,10 @@ p, li {
 ul, ol, li, p {
     background-color: #FFEFDE;
 }
-ul, ol, p {
-    border-radius: 50px;
+ul, ol, p, .link {
+    border-radius: 15px;
     width: 800px;
-    padding: 100px ;
+    padding: 50px ;
     margin: auto;
     color: #403C37;
 }
@@ -39,20 +39,30 @@ li, .link {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-.link {
-    font-family: comic-sans, sans-serif;
+.center.link {
+    width: 350px;
+    padding: 10px ;
+    margin-top: 15px;
+    font-family: italic, sans-serif;
     font-size: 32px;
+    color: #c5af97;
+    background-color: #403C37;
+    text-decoration: none;
+}
+.link.homepage {
+    font-size: 24px;
+
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 5%;
+    border-radius: 15px;
 }
 .center.jake {
-    border-radius: 2%;
+    width: 900px;
 }
 .center.smore {
-    border-radius: 2%;
     width: 35%;
 }
+
