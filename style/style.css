@@ -26,7 +26,7 @@ ul, ol, li, p {
     background-color: #FFEFDE;
 }
 ul, ol, p {
-    border-radius: 10%;
+    border-radius: 50px;
     width: 800px;
     padding: 100px ;
     margin: auto;
