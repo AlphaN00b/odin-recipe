@@ -49,8 +49,9 @@ li, .link {
     background-color: #786550;
     text-decoration: none;
 }
-.link.homepage {
+.link.center.homepage {
     font-size: 24px;
+    width: 150px;
 
 }
 .center {
